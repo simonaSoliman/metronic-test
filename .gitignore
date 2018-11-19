@@ -1,0 +1,61 @@
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+/.idea
+/.vscode
+/nbproject
+/.vagrant
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+.env
+.phpunit.result.cache
+
+#for .gitignore of public
+# compiled output
+/public//dist
+/public//dist-server
+/public//tmp
+/public//out-tsc
+
+# dependencies
+/public//node_modules
+
+# IDEs and editors
+/public/.idea
+/public/.project
+/public/.classpath
+/public/.c9/
+/public/*.launch
+/public/.settings/
+/public/*.sublime-workspace
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# misc
+/.sass-cache
+/connect.lock
+/coverage
+/libpeerconnection.log
+npm-debug.log
+testem.log
+/typings
+
+# e2e
+/public/e2e/*.js
+/public//e2e/*.map
+
+# System Files
+.DS_Store
+Thumbs.db
+package-lock.json
+
+yarn-error.log
